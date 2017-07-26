@@ -4,17 +4,6 @@ library(leaflet)
 library(rgdal)
 library(reshape2)
 
-#### To Do List ####
-## Make the following tabs (2016 election only): 
-## * percentage of precinct total?
-## * turnout and election results by county
-## * turnout and election results by NC House district
-## * turnout and election results by NC Senate District
-## * turnout and election results by Congressional District
-## * Add credits/acknowledgements
-## * Add link to gofundme or rockethub page or something - need $$ to keep active
-## * eventual capability to choose other election years
-
 #### Read in data and make filepaths for geojsons ####
 load("data/NCEV2016_data.RData")
 fn = data.frame(countyNames,filepath = paste0("data/geojson/NC2016_",countyNames$county,".geojson"))
