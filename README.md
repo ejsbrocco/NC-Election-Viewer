@@ -3,10 +3,10 @@ NC Election Viewer was developed to improve situational awareness of past voter 
 
 Note: Chrome users may need to decrease zoom level on browser in order for map legend to display properly.
 
-Data Source: NC State Board of Elections
+Data Source: NC State Board of Elections, 
 Data last updated 7/21/2017
 
-NC Election Viewer, version 1.0 (beta)
-Shiny Application by EJ Sbrocco, Ph.D. 
-Biologist/Data Scientist 
+NC Election Viewer, version 1.0 (beta), 
+Shiny Application by EJ Sbrocco, Ph.D., 
+Biologist/Data Scientist, 
 Contact: ejsbrocco@gmail.com
